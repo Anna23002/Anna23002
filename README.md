@@ -1,4 +1,6 @@
 ### Hi there! My name is Anna
+### 🌱 Still a newbie, learning more about GitHub ^^
+
 
 <!--
 
